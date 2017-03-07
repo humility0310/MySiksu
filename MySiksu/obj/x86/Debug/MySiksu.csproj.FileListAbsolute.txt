@@ -1,0 +1,13 @@
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\bin\Debug\MySiksu.exe.config
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\bin\Debug\MySiksu.exe
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\bin\Debug\MySiksu.pdb
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.EnterComCode.resources
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.Form1.resources
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.Properties.Resources.resources
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.SearchEmp.resources
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.csproj.GenerateResource.Cache
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.exe.licenses
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.exe
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.pdb
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.csprojResolveAssemblyReference.cache
+C:\Users\W118166\documents\visual studio 2010\Projects\MySiksu\MySiksu\obj\x86\Debug\MySiksu.csproj.ResolveComReference.cache
